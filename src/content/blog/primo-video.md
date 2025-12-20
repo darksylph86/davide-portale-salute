@@ -2,6 +2,7 @@
 title: "Piramide delle priorità nutrizionali in un piano alimentare"
 description: "In questo video analizzo quali sono i gradini di quella che costituisce una piramide sulle priorità nutrizionali."
 pubDate: "Dec 20 2025"
+heroImage: "/video-1.jpg"
 ---
 
 ## Guarda il Video
