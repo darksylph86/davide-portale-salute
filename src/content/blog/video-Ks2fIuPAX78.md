@@ -2,7 +2,7 @@
 title: "Hai Perso la Voce? NON Sussurrare: Un Errore Che Rovina le Tue Corde Vocali"
 description: "Raucedine o afonia? Scopri perché sussurrare peggiora la situazione e come proteggere le tue corde vocali per un recupero efficace. Consigli esperti."
 pubDate: 2025-01-01
-heroImage: "/video-Ks2fIuPAX78.jpg
+heroImage: "/video-Ks2fIuPAX78.jpg"
 ---
 
 # Hai Perso la Voce? Smetti SUBITO di Fare Questo Errore!
