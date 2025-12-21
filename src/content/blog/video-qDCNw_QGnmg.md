@@ -1,7 +1,7 @@
 ---
 title: "Yogurt e Infiammazione Cronica: La Scienza Dietro un Beneficio Inatteso"
 description: "Scopri la sorprendente correlazione tra il consumo di yogurt e la riduzione dei marker di infiammazione cronica, spiegata dalla scienza."
-pubDate: 2022-08-31
+pubDate: 2025-25-25
 heroImage: "/video-qDCNw_QGnmg.jpg"
 ---
 
