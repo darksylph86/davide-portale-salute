@@ -13,7 +13,7 @@ Capire la biologia dietro a questo fenomeno è il primo passo per un approccio p
 
 Per approfondire la comprensione di questo argomento e scoprire consigli pratici, ti invitiamo a guardare questo video del Dr. Ferraro, che offre una prospettiva chiara e professionale:
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/gmPf7lTNxYc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://youtu.be/gmPf7lTNXyc" frameborder="0" allowfullscreen></iframe>
 
 Come ben illustrato, l'approccio al grasso ostinato deve essere olistico. Non si tratta solo di 'fare la fame' o di 'ammazzarsi in palestra'. È fondamentale considerare diversi aspetti:
 
