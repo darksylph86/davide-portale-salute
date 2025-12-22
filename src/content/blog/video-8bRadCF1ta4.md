@@ -1,5 +1,5 @@
 ---
-title: Home Gym Essenziale: L'Attrezzatura Migliore per un Workout Completo
+title: Home Gym Essenziale L'Attrezzatura Migliore per un Workout Completo
 description: Scopri l'attrezzatura indispensabile per allestire la tua home gym e allenarti efficacemente a casa con manubri, bilanciere e dischi. La guida completa.
 pubDate: 2022-09-13
 heroImage: "/video-8bRadCF1ta4.jpg"
