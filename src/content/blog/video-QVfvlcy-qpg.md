@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: "Aminoacidi BCAA: cosa sono, benefici reali e se l'integrazione è davvero utile"
 description: "Scopri tutto sugli aminoacidi BCAA: cosa sono, i loro benefici e se vale la pena integrarli. Una guida completa dal nostro esperto."
