@@ -80,6 +80,23 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					<slot />
 				</div>
 			</article>
+			<div style="background: #f8f9fa; border: 2px solid #e9ecef; border-radius: 12px; padding: 2rem; margin: 4rem auto; max-width: 800px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+				<h3 style="margin-top: 0; color: #2c3e50;">Ti è piaciuto questo articolo?</h3>
+				<p style="font-size: 1.1rem; color: #555; line-height: 1.6;">
+					La divulgazione scientifica richiede tempo e studio. Se apprezzi il mio lavoro e vuoi supportare il progetto, puoi farlo in modo semplice e gratuito.
+				</p>
+				<p style="font-weight: bold; color: #e74c3c;">
+					🛍️ Acquista i tuoi integratori preferiti tramite il mio link affiliato:
+				</p>
+				<a href="https://amzn.to/3YR3U1W" target="_blank" style="display: inline-block; background: #e74c3c; color: white; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: bold; transition: transform 0.2s; margin-top: 1rem;">
+					Vai allo Store Consigliato →
+				</a>
+				<p style="font-size: 0.9rem; color: #888; margin-top: 1.5rem;">
+					<em>A te non costa nulla in più, ma una piccola percentuale del tuo acquisto aiuterà a mantenere attivo questo sito. Grazie!</em>
+				</p>
+			</div>
+			<Footer /> </body>
+	</html>
 		</main>
 		<Footer />
 	</body>
