@@ -6,8 +6,27 @@ import Layout from '../layouts/BlogPost.astro';
 	title="Chi Sono"
 	description="Biografia e percorso formativo del Dr. Davide Ferraro"
 	pubDate={new Date('August 06 2025')}
-	heroImage="/blog-placeholder-about.jpg"
 >
+	<style>
+		.profile-container {
+			text-align: center; /* Centra l'immagine */
+			margin-bottom: 2rem;
+		}
+		.profile-img {
+			width: 250px;      /* Larghezza fissa contenuta */
+			height: 250px;     /* Altezza uguale per farla quadrata/tonda */
+			object-fit: cover; /* Ritaglia l'immagine senza deformarla */
+			border-radius: 50%; /* 50% la rende CERCHIO PERFETTO. Metti 12px se la vuoi rettangolare stondata */
+			box-shadow: 0 5px 15px rgba(0,0,0,0.15); /* Una leggera ombra elegante */
+			margin: 0 auto;
+			display: block;
+		}
+	</style>
+
+	<div class="profile-container">
+		<img src="/blog-placeholder-about.jpg" alt="Dr. Davide Ferraro" class="profile-img" />
+	</div>
+
 	<p>
 		Ciao, sono <strong>Davide Ferraro</strong>.
 	</p>
@@ -24,7 +43,7 @@ import Layout from '../layouts/BlogPost.astro';
 		<li><strong>Farmacista:</strong> La mia prima laurea e la mia professione quotidiana. Mi ha dato le basi rigorose sulla chimica e sulla farmacologia.</li>
 		<li><strong>Dottore in Nutrizione Umana:</strong> Ho conseguito la Laurea Magistrale e un Master in Nutrizione Umana per approfondire l'impatto del cibo sul nostro organismo.</li>
 		<li><strong>Esperto in Nutrizione Sportiva (SANIS):</strong> Diplomato alla scuola SANIS, il riferimento in Italia per la nutrizione applicata allo sport.</li>
-		<li><strong>Personal Trainer:</strong> Perché la teoria nutrizionale deve sempre accompagnarsi alla pratica motoria.</li>
+		<li><strong>Personal Trainer certificato INVICTUS:</strong> Perché la teoria nutrizionale deve sempre accompagnarsi alla pratica motoria.</li>
 	</ul>
 
 	<blockquote>
