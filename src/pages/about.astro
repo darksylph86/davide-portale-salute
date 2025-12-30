@@ -15,18 +15,15 @@ import Layout from '../layouts/BlogPost.astro';
 			margin-top: 1rem;
 		}
 
-		/* Questa classe forza l'immagine ad essere un cerchio perfetto */
+		/* CSS per un RITRATTO VERTICALE elegante */
 		.profile-img {
-			width: 300px;      /* Larghezza fissa */
-			height: 300px;     /* Altezza IDENTICA alla larghezza */
-			object-fit: cover; /* FONDAMENTALE: Ritaglia l'immagine per riempire il cerchio senza deformarla */
-			border-radius: 50%; /* 50% crea il cerchio perfetto */
-			box-shadow: 0 10px 25px rgba(0,0,0,0.2); /* Ombra elegante */
-			border: 5px solid white; /* Un bordino bianco per farla risaltare */
+			width: 280px;      /* Larghezza controllata */
+			height: 380px;     /* Altezza maggiore per dare lo slancio verticale */
+			object-fit: cover; /* Riempie il box senza deformare la foto */
+			object-position: top center; /* FONDAMENTALE: Inquadra la parte alta (testa) evitando di tagliare la fronte */
+			border-radius: 16px; /* Angoli stondati moderni (non più cerchio) */
+			box-shadow: 0 10px 30px rgba(0,0,0,0.15); /* Ombra morbida per profondità */
 		}
-		
-		/* Se vuoi un rettangolo stondato invece del cerchio, 
-		   cambia 'border-radius: 50%;' con 'border-radius: 20px;' qui sopra */
 	</style>
 
 	<div class="profile-container">
