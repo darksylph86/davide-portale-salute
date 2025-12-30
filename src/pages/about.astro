@@ -8,6 +8,11 @@ import Layout from '../layouts/BlogPost.astro';
 	pubDate={new Date('August 06 2025')}
 >
 	<style>
+		/* NASCONDE LA DATA (Solo in questa pagina) */
+		:global(.date) {
+			display: none !important;
+		}
+
 		.profile-container {
 			display: flex;
 			justify-content: center;
@@ -15,13 +20,13 @@ import Layout from '../layouts/BlogPost.astro';
 			margin-top: 1rem;
 		}
 
-		/* CSS per un RITRATTO VERTICALE elegante */
+		/* CSS per un RITRATTO VERTICALE perfetto */
 		.profile-img {
 			width: 280px;      /* Larghezza controllata */
 			height: 380px;     /* Altezza maggiore per dare lo slancio verticale */
 			object-fit: cover; /* Riempie il box senza deformare la foto */
 			object-position: top center; /* FONDAMENTALE: Inquadra la parte alta (testa) evitando di tagliare la fronte */
-			border-radius: 16px; /* Angoli stondati moderni (non più cerchio) */
+			border-radius: 16px; /* Angoli stondati moderni */
 			box-shadow: 0 10px 30px rgba(0,0,0,0.15); /* Ombra morbida per profondità */
 		}
 	</style>
