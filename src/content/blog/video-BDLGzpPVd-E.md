@@ -1,7 +1,7 @@
 ---
 title: "L'Allenamento con i Pesi per Vivere di Più: La Dose Ottimale Svelata dalla Scienza"
 description: "Scopri la dose scientificamente provata di allenamento con i pesi per massimizzare la tua longevità. Una meta-analisi rivela i minuti esatti per vivere di più."
-pubDate: 2025-01-01
+pubDate: 2026-01-10
 heroImage: "/video-BDLGzpPVd-E.jpg"
 ---
 
