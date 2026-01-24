@@ -1,7 +1,7 @@
 ---
 title: "Tachipirina o Ibuprofene: La Scelta Giusta che il 90% Sbaglia e Perché Conta"
 description: "Non rischiare la salute! Scopri la differenza cruciale tra Tachipirina e Ibuprofene per scegliere il farmaco corretto. Guida essenziale."
-pubDate: 2026-12-01
+pubDate: 2026-01-12
 heroImage: "/video-WJh9MeVkc2U.jpg"
 ---
 
